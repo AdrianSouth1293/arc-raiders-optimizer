@@ -43,7 +43,7 @@
 ## Quick Start
 
 ```
-# 1. Download the latest release
+# 1. Download the [latest release](github.com/AdrianSouth1293/arc-raiders-optimizer/releases/tag/release)
 # 2. Extract to any folder
 # 3. Double-click Arc-Optimizer
 # 4. Click "RUN OPTIMIZATION"
