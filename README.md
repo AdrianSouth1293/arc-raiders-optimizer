@@ -182,11 +182,3 @@ Arc Raiders and The Finals share the same engine (Unreal Engine 5), developer (E
 ## License
 
 MIT — free to use, modify, and distribute. See [LICENSE](LICENSE).
-
----
-
-<p align="center">
-  <a href="https://github.com/jordan-thirkle/arc-optimizer/issues">Report Bug</a> ·
-  <a href="https://github.com/jordan-thirkle/arc-optimizer/discussions">Feature Request</a> ·
-  <a href="https://github.com/jordan-thirkle/arc-optimizer">GitHub</a>
-</p>
